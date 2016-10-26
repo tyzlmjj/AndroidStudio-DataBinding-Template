@@ -1,5 +1,7 @@
 <?xml version="1.0"?>
 <template
+    minApi="9"
+    minBuildApi="14"
     name="Data Binding Empty Activity"
     description="Creates a new empty activity by Data Binding Library">
 
